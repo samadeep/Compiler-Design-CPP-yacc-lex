@@ -1,0 +1,32 @@
+
+
+
+
+
+Experiment :- write a program to check whether a string belongs to the grammar or not.
+
+Experiment :- Write a program to check whether a grammar is left recursive.
+
+Experiment :- Program to implement first and folllow for given grammar
+
+
+
+Experiment :- Write a yaac program that recognises a valid arithmetic expression 
+that uses operators + - * and /
+
+YAAC generates a LALR(1) parser 
+
+/* definitions */
+ ....
+
+%% 
+/* rules */ 
+....
+%% 
+
+/* auxiliary routines */
+.... 
+
+
+
+
